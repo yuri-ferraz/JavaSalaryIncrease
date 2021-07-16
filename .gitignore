@@ -1,7 +1,5 @@
 # Compiled class file
 *.class
-Employee.class
-Program.class
 
 # Log file
 *.log
